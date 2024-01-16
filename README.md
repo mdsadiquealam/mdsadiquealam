@@ -1,7 +1,8 @@
 ### Hi there 👋
 my name is sadique alam
 <br>
-s.siddiqui
+s.mine nkfjrf
+
 
 <!--
 **mdsadiquealam/mdsadiquealam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
